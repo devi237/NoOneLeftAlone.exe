@@ -277,7 +277,7 @@ Camera → OpenCV Processing → YOLO Detection → Crowd Counter → Threshold 
 Step 1 – Clone Repository
 
 
-
+</> Bash
 git clone https://github.com/your-username/NoOneLeftAlone.exe.git
 
 cd NoOneLeftAlone.exe
@@ -287,7 +287,7 @@ cd NoOneLeftAlone.exe
 Step 2 – Install Dependencies
 
 
-
+</> Bash
 pip install -r requirements.txt
 
 
@@ -295,7 +295,7 @@ pip install -r requirements.txt
 Step 3 – Run Application
 
 
-
+</> Bash
 python app.py
 
 
@@ -303,7 +303,7 @@ python app.py
 Access the application via:
 
 
-
+</> Code
 http://127.0.0.1:5000
 
 
@@ -351,6 +351,7 @@ Sethulakshmi P R
 
 
 Hackathon: Think-Her-Hack
+
 
 
 
