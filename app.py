@@ -11,8 +11,7 @@ print("[CV] Loading YOLO...")
 model = YOLO("yolov8n.pt")
 print("[CV] Ready.")
 
-camera = cv2.VideoCapture(0)
-camera = cv2.VideoCapture("demo.mp4")
+camera = None
 camera_running = False
 DISTANCE_THRESHOLD = 200
 ISOLATION_TIME = 20
